@@ -7,7 +7,7 @@ Observa is a web extension that allows you to read [Observador]("observador.pt")
 
 It's currently available for Firefox ~~and Chrome~~ (coming soon)
 
-- [Download in Firefox Add-ons]("https://addons.mozilla.org/firefox/addon/observa/")
+- [Download in Firefox Add-ons]("https://addons.mozilla.org/firefox/addon/observa/") teste
 
 <!-- - [Download in Chrome Web store]() -->
 
