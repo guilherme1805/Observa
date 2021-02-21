@@ -5,23 +5,10 @@ function showHiddenParagraphs() {
 
   classSelectors.forEach(classSelector => {
     document.querySelectorAll(classSelector).forEach(element => {
-      //removeClassFromElement(element, "premium-article")
       element.classList.remove("premium-article")
     })
   });
 }
-
-// function removeClassFromElement(element, className) {
-//   elementClassList = element.getAttribute("class")
-//   let finalClassList = ""
-//   elementClassList.split(" ").forEach(elem => {
-//     //finalClassList += 
-//   });
-
-//   element.setAttribute("class", 
-//     elementClassList.replace(className, "")
-//   )
-// }
 
 function removeArticleBodyMaxHeight() {
   let articleWrapper = document.querySelector(".article-body-wrapper")
