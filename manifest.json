@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Observa: Read Observador premium news",
+  "short_name": "Observa",
+  "author": "Guilherme Oliveira",
+  "version": "1.0.1",
+  "description": "Unlocks observador.pt premium news.",
+  "icons": {
+    "48": "static/icons/icon-48.png",
+    "128": "static/icons/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://observador.pt/*"
+      ],
+      "js": [
+        "src/observa.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "https://observador.pt/*"
+  ],
+  "web_accessible_resources": ["static/*"]
+}
