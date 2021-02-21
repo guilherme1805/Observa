@@ -5,9 +5,9 @@ Observa is a web extension that allows you to read [Observador]("observador.pt")
 
 ## Installation
 
-It's currently available for Firefox ~~and Chrome~~ (coming soon)
+It's currently available for Firefox ~~and Chrome~~ (coming soon):
 
-- [Download in Firefox Add-ons]("https://addons.mozilla.org/firefox/addon/observa/") teste
+* [Download in Firefox Add-ons]("https://addons.mozilla.org/firefox/addon/observa/")
 
 <!-- - [Download in Chrome Web store]() -->
 
@@ -34,10 +34,10 @@ You'll need:
 
 To use Observa, follow these steps:
 
-- Install dependencies: `npm install`
+* Install dependencies: `npm install`
 
-  - Run Firefox add-on: `npm run start:firefox`
-  - Run Chrome extension: `npm run start:chrome`
+  * Run Firefox add-on: `npm run start:firefox`
+  * Run Chrome extension: `npm run start:chrome`
 
 
 ## Built With
