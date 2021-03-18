@@ -13,7 +13,7 @@ It's currently available for Firefox ~~and Chrome~~ (coming soon):
 
 ### For uBlock Origin Users
 
-If you use uBlock Origin I highly advice you not to use this extension. Alternatively, you should add this filters to your uBlock Origin configuration:
+If you use uBlock Origin I highly advise you not to use this extension. Alternatively, you should add this filters to your uBlock Origin configuration:
 
 ```
 ! https://observador.pt
